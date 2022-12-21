@@ -48,3 +48,6 @@ To test run npm test in the command line
 For any questions contact me on: <br />
 Github: [https://github.com/MitchH10](github.com/MitchH10) or <br />
 Email: [mjh10@live.com](mjh10@live.com)
+
+## Link to repo
+[https://github.com/MitchH10/Team-Profile-Generator](https://github.com/MitchH10/Team-Profile-Generator)
