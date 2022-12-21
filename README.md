@@ -3,6 +3,8 @@
 ## Description
 This is a node application that creates an html file of a team of engineers and interns
 
+![Alt text](./img/Screenshot.png "Screenshot")
+
 ## Video Showcase Link
 [https://drive.google.com/file/d/1grGdXvlyHFxan6ltsfazaGUKcjOw7GSR/view](https://drive.google.com/file/d/1grGdXvlyHFxan6ltsfazaGUKcjOw7GSR/view)
 
